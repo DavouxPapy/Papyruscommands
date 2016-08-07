@@ -1,1 +1,0 @@
-AddCSLuaFile("lua/client/cl_warns.lua")
