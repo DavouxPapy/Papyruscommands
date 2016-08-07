@@ -1,0 +1,7 @@
+--1--
+Install warn.lua
+--2--
+Place allwarns folder in Garrysmod/garrysmod/addons
+--3--
+Give a warning to a player
+--4-- Happiness intesifies
